@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm R!t!K</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="500" height="530px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dqazhiMGZ2eWY3eGxuZXRrcDNocXMxaGFuejJucnZzcjYyYmowOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="right" alt="coding" width="500" height="500px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dqazhiMGZ2eWY3eGxuZXRrcDNocXMxaGFuejJucnZzcjYyYmowOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif">
 
 - 🌱 I’m currently learning **Full stack development**
 
